@@ -1,6 +1,6 @@
 # OpenBand: Interactive 1D Semiconductor Device & Heterojunction Simulator
 
-[![CI](https://github.com/openband/openband/actions/workflows/ci.yml/badge.svg)](https://github.com/openband/openband/actions/workflows/ci.yml)
+[![CI](https://github.com/Sunfalll-alt/openband/actions/workflows/ci.yml/badge.svg)](https://github.com/Sunfalll-alt/openband/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Rust: 2024](https://img.shields.io/badge/Rust-2024_Edition-orange.svg?logo=rust)](https://www.rust-lang.org/)
 [![GUI: egui 0.31](https://img.shields.io/badge/GUI-egui_0.31-lightblue.svg)](https://github.com/emilk/egui)
@@ -236,7 +236,7 @@ Ensure you have a recent Rust toolchain installed (Rust 1.85+ / 2024 edition com
 
 ```bash
 # Clone the repository
-git clone https://github.com/openband/openband.git
+git clone https://github.com/Sunfalll-alt/openband.git
 cd openband
 
 # Run the test suite (12 physics & numerical verification tests)
