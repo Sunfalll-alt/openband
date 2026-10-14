@@ -1,0 +1,17 @@
+# Build artifacts
+/target/
+
+# Simulation exports & temporary data
+*.csv
+openband_simulation.csv
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS artifacts
+.DS_Store
+Thumbs.db
