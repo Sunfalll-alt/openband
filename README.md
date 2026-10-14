@@ -176,8 +176,7 @@ openband/
 ├── docs/
 │   └── screenshots/
 │       ├── heterojunction_workbench.png
-│       ├── iv_characteristics.png
-│       └── generate_screenshots.py
+│       └── iv_characteristics.png
 └── src/
     ├── main.rs                     # eframe entry point & window initialization
     ├── app.rs                      # egui UI layout, 2x2 egui_plot rendering, toolbar
